@@ -1,6 +1,4 @@
-This is a comprehensive, senior-level **README** for your GitHub repository. It reflects your evolution from basic training to the current **Partitioned Architecture** strategy, incorporating the advanced clinical insights we've discussed.
 
----
 
 # 👁️ EmotionSensor-SOTA: Partitioned Affective Computing
 
@@ -83,4 +81,3 @@ results = model.predict(source=0, imgsz=160, stream=True)
 *   **iMotions Guidebook**: Facial Action Coding System (FACS) Visual Guide[cite: 4].
 
 ---
-*Developed by Aditya - ML Engineer & AI Agent Specialist*
